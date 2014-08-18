@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rajan</string>
+    <string name="hello_world">Hi! I am Rajan and I am a Computer Science Engineer from VIT University. This is my first attempt to learn to make Android apps.</string>
+    <string name="rajangupta">Rajan!</string>
+    <string name="facebook">facebook</string>
+    <string name="LinkedIn">in</string>
+
+</resources>
